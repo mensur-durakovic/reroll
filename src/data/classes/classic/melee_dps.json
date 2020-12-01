@@ -1,0 +1,54 @@
+{
+    "pickingClasses": [
+        {
+            "name": "Druid",
+            "isActive": false,
+            "characteristics": [
+                "Can fit all roles in the game",
+                "Shapeshifts into other creatures",
+                "Most versatile class in the game"
+            ]
+        },
+        {
+            "name": "Paladin",
+            "isActive": false,
+            "characteristics": [
+                "Flashy spells and visuals",
+                "Good for beginners",
+                "Good for soloing",
+                "Has many abilities to save the player and others"
+            ]
+        },
+        {
+            "name": "Rogue",
+            "isActive": false,
+            "characteristics": [
+                "Plenty of skills to avoid combat mechanics",
+                "Good mobility",
+                "Has invisibility",
+                "Has multiple crowd control abilities",
+                "Can have a pet to tank enemies"
+            ]
+        },
+        {
+            "name": "Shaman",
+            "isActive": false,
+            "characteristics": [
+                "Flashy spells and visuals",
+                "Plenty of selfhealing",
+                "Has totems to buff others",
+                "Can resurrect in combat"
+            ]
+        },
+        {
+            "name": "Warrior",
+            "isActive": false,
+            "characteristics": [
+                "Good mobility",
+                "Fast playstyle",
+                "Plenty of gapclosers",
+                "Fairly mobile"
+            ]
+        }
+    ]
+}

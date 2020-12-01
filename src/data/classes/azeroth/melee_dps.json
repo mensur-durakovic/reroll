@@ -1,0 +1,99 @@
+{
+    "pickingClasses": [
+        {
+            "name": "Demon Hunter",
+            "isActive": false,
+            "characteristics": [
+                "One of the most mobile classes in the game",
+                "Can double jump",
+                "Good soloing class",
+                "Plenty of selfhealing",
+                "Can detect units in stealth",
+                "Good for beginners"
+            ]
+        },
+        {
+            "name": "Death Knight",
+            "isActive": false,
+            "characteristics": [
+                "Can raise the dead",
+                "Not mobile",
+                "Can grip others to himself",
+                "A lot of self healing",
+                "Melee fighter with ranged spells",
+                "Can have pet ghoul"
+            ]
+        },
+        {
+            "name": "Druid",
+            "isActive": false,
+            "characteristics": [
+                "Can fit all roles in the game",
+                "Shapeshifts into other creatures",
+                "Most versatile class in the game"
+            ]
+        },
+        {
+            "name": "Hunter",
+            "isActive": false,
+            "characteristics": [
+                "Good for beginners",
+                "Good for soloing",
+                "Can have a pet to tank enemies",
+                "Fairly mobile",
+                "Can't be interrupted"
+            ]
+        },
+        {
+            "name": "Monk",
+            "isActive": false,
+            "characteristics": [
+                "One of the most mobile classes in the game",
+                "Unique playstyle",
+                "Good for soloing",
+                "Has multiple crowd control abilities"
+            ]
+        },
+        {
+            "name": "Paladin",
+            "isActive": false,
+            "characteristics": [
+                "Flashy spells and visuals",
+                "Good for beginners",
+                "Good for soloing",
+                "Has many abilities to save the player and others"
+            ]
+        },
+        {
+            "name": "Rogue",
+            "isActive": false,
+            "characteristics": [
+                "Plenty of skills to avoid combat mechanics",
+                "Good mobility",
+                "Has invisibility",
+                "Has multiple crowd control abilities",
+                "Can have a pet to tank enemies"
+            ]
+        },
+        {
+            "name": "Shaman",
+            "isActive": false,
+            "characteristics": [
+                "Flashy spells and visuals",
+                "Plenty of selfhealing",
+                "Has totems to buff others",
+                "Can resurrect in combat"
+            ]
+        },
+        {
+            "name": "Warrior",
+            "isActive": false,
+            "characteristics": [
+                "Good mobility",
+                "Fast playstyle",
+                "Plenty of gapclosers",
+                "Fairly mobile"
+            ]
+        }
+    ]
+}

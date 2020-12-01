@@ -1,0 +1,45 @@
+{
+    "pickingClasses": [
+        {
+            "name": "Druid",
+            "isActive": false,
+            "characteristics": [
+                "Can fit all roles in the game",
+                "Shapeshifts into other creatures",
+                "Most versatile class in the game"
+            ]
+        },
+        {
+            "name": "Paladin",
+            "isActive": false,
+            "characteristics": [
+                "Flashy spells and visuals",
+                "Good for beginners",
+                "Good for soloing",
+                "Has many abilities to save the player and others"
+            ]
+        },
+        {
+            "name": "Priest",
+            "isActive": false,
+            "characteristics": [
+                "Nice visuals",
+                "Has abilities to support others, e.g. shields and heals",
+                "Good looking tiers",
+                "Can take control of other players",
+                "Plenty of selfhealing",
+                "Plenty of \"Damage over Time\" abilities"
+            ]
+        },
+        {
+            "name": "Shaman",
+            "isActive": false,
+            "characteristics": [
+                "Flashy spells and visuals",
+                "Plenty of selfhealing",
+                "Has totems to buff others",
+                "Can resurrect in combat"
+            ]
+        }
+    ]
+}

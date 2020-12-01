@@ -1,0 +1,22 @@
+[
+  {
+    "name": "All",
+    "isActive": true
+  },
+  {
+    "name": "Tank only",
+    "isActive": false
+  },
+  {
+    "name": "Healer only",
+    "isActive": false
+  },
+  {
+    "name": "Ranged DPS only",
+    "isActive": false
+  },
+  {
+    "name": "Melee DPS only",
+    "isActive": false
+  }
+]

@@ -1,0 +1,90 @@
+{
+    "pickingClasses": [
+        {
+            "name": "Druid",
+            "isActive": false,
+            "characteristics": [
+                "Can fit all roles in the game",
+                "Shapeshifts into other creatures",
+                "Most versatile class in the game"
+            ]
+        },
+        {
+            "name": "Hunter",
+            "isActive": false,
+            "characteristics": [
+                "Good for beginners",
+                "Good for soloing",
+                "Can have a pet to tank enemies",
+                "Fairly mobile",
+                "Can't be interrupted"
+            ]
+        },
+        {
+            "name": "Mage",
+            "isActive": false,
+            "characteristics": [
+                "Can avoid mechanics with Ice Block",
+                "Fairly mobile",
+                "A lot of utilities like portals, slow fall",
+                "Can teleport away from enemies",
+                "Many crowd control spells",
+                "Squishy"
+            ]
+        },
+        {
+            "name": "Paladin",
+            "isActive": false,
+            "characteristics": [
+                "Flashy spells and visuals",
+                "Good for beginners",
+                "Good for soloing",
+                "Has many abilities to save the player and others"
+            ]
+        },
+        {
+            "name": "Priest",
+            "isActive": false,
+            "characteristics": [
+                "Nice visuals",
+                "Has abilities to support others, e.g. shields and heals",
+                "Good looking tiers",
+                "Can take control of other players",
+                "Plenty of selfhealing",
+                "Plenty of \"Damage over Time\" abilities"
+            ]
+        },
+        {
+            "name": "Rogue",
+            "isActive": false,
+            "characteristics": [
+                "Plenty of skills to avoid combat mechanics",
+                "Good mobility",
+                "Has invisibility",
+                "Has multiple crowd control abilities",
+                "Can have a pet to tank enemies"
+            ]
+        },
+        {
+            "name": "Shaman",
+            "isActive": false,
+            "characteristics": [
+                "Flashy spells and visuals",
+                "Plenty of selfhealing",
+                "Has totems to buff others",
+                "Can resurrect in combat"
+            ]
+        },
+        {
+            "name": "Warlock",
+            "isActive": false,
+            "characteristics": [
+                "Good for soloing",
+                "Plenty of selfhealing",
+                "Can summon other players",
+                "Flashy spells and visuals",
+                "Can resurrect others in combat"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "pickingClasses": [
+        {
+            "name": "Druid",
+            "isActive": false,
+            "characteristics": [
+                "Can fit all roles in the game",
+                "Shapeshifts into other creatures",
+                "Most versatile class in the game"
+            ]
+        },
+        {
+            "name": "Paladin",
+            "isActive": false,
+            "characteristics": [
+                "Flashy spells and visuals",
+                "Good for beginners",
+                "Good for soloing",
+                "Has many abilities to save the player and others"
+            ]
+        },
+        {
+            "name": "Warrior",
+            "isActive": false,
+            "characteristics": [
+                "Good mobility",
+                "Fast playstyle",
+                "Plenty of gapclosers",
+                "Fairly mobile"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+  "pickingClasses": [
+    {
+      "name": "Druidxa",
+      "isActive": false,
+      "characteristics": [
+        "Druid - 2 ranged and 1 melee specs",
+        "Druid - Can have a pet companion",
+        "Druid - Very mobile character",
+        "Druid - Can not be interrupted"
+      ]
+    },
+    {
+      "name": "Shaman",
+      "isActive": false,
+      "characteristics": [
+        "Shaman - 2 ranged and 1 melee specs",
+        "Shaman - Can have a pet companion",
+        "Shaman - Very mobile character",
+        "Shaman - Can not be interrupted"
+      ]
+    },
+    {
+      "name": "Priest",
+      "isActive": false,
+      "characteristics": [
+        "Priest - 2 ranged and 1 melee specs",
+        "Priest - Can have a pet companion",
+        "Priest - Very mobile character",
+        "Priest - Can not be interrupted"
+      ]
+    },
+    {
+      "name": "Mage",
+      "isActive": false,
+      "characteristics": [
+        "Mage - 2 ranged and 1 melee specs",
+        "Mage - Can have a pet companion",
+        "Mage - Very mobile character",
+        "Mage - Can not be interrupted"
+      ]
+    },
+    {
+      "name": "Warlock",
+      "isActive": false,
+      "characteristics": [
+        "Warlock - 2 ranged and 1 melee specs",
+        "Warlock - Can have a pet companion",
+        "Warlock - Very mobile character",
+        "Warlock - Can not be interrupted"
+      ]
+    },
+    {
+      "name": "Hunter",
+      "isActive": false,
+      "characteristics": [
+        "Hunter - 2 ranged and 1 melee specs",
+        "Hunter - Can have a pet companion",
+        "Hunter - Very mobile character",
+        "Hunter - Can not be interrupted"
+      ]
+    }
+  ]
+}

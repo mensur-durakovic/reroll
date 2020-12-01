@@ -1,0 +1,64 @@
+{
+  "pickingClasses": [
+    {
+      "name": "AdruidX",
+      "isActive": false,
+      "characteristics": [
+        "Adruid- 2 ranged and 1 melee specs",
+        "Adruid- Can have a pet companion",
+        "Adruid- Very mobile character",
+        "Adruid- Can not be interrupted"
+      ]
+    },
+    {
+      "name": "Ashaman",
+      "isActive": false,
+      "characteristics": [
+        "Ashaman - 2 ranged and 1 melee specs",
+        "Ashaman - Can have a pet companion",
+        "Ashaman - Very mobile character",
+        "Ashaman - Can not be interrupted"
+      ]
+    },
+    {
+      "name": "Apriest",
+      "isActive": false,
+      "characteristics": [
+        "Apriest - 2 ranged and 1 melee specs",
+        "Apriest - Can have a pet companion",
+        "Apriest - Very mobile character",
+        "Apriest - Can not be interrupted"
+      ]
+    },
+    {
+      "name": "Amage",
+      "isActive": false,
+      "characteristics": [
+        "Amage - 2 ranged and 1 melee specs",
+        "Amage - Can have a pet companion",
+        "Amage - Very mobile character",
+        "Amage - Can not be interrupted"
+      ]
+    },
+    {
+      "name": "Awarlock",
+      "isActive": false,
+      "characteristics": [
+        "Awarlock - 2 ranged and 1 melee specs",
+        "Awarlock - Can have a pet companion",
+        "Awarlock - Very mobile character",
+        "Awarlock - Can not be interrupted"
+      ]
+    },
+    {
+      "name": "Ahunter",
+      "isActive": false,
+      "characteristics": [
+        "Ahunter - 2 ranged and 1 melee specs",
+        "Ahunter - Can have a pet companion",
+        "Ahunter - Very mobile character",
+        "Ahunter - Can not be interrupted"
+      ]
+    }
+  ]
+}
