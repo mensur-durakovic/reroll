@@ -33,21 +33,23 @@ const TwoOptionsSwitcher = React.memo((props) => {
 
   const elementMouseDecryptor = (isActive) => {
     if (choiceHandlerDisabled) {
-      return 'not-allowed';
+      return "not-allowed";
     }
 
     if (!isActive) {
-      return 'clickable';
+      return "clickable";
     }
 
-    return '';
-  }
+    return "";
+  };
 
   return (
     <section className="switcher">
       <div className="switcher-head">
         <div
-          className={`switcher-card ${elementMouseDecryptor(firstOptionActive)}`}
+          className={`switcher-card ${elementMouseDecryptor(
+            firstOptionActive
+          )}`}
           onClick={() => toggleChoiceHandler("firstOption")}
         >
           <div
@@ -82,7 +84,9 @@ const TwoOptionsSwitcher = React.memo((props) => {
           </div>
         </div>
         <div
-          className={`switcher-card ${elementMouseDecryptor(secondOptionActive)}`}
+          className={`switcher-card ${elementMouseDecryptor(
+            secondOptionActive
+          )}`}
           onClick={() => toggleChoiceHandler("secondOption")}
         >
           <div
@@ -134,7 +138,12 @@ const TwoOptionsSwitcher = React.memo((props) => {
             }`}
           ></div>
         </div>
-        <div className={`switcher-body-central ${choiceHandlerDisabled ? 'not-allowed' : ''}`} onClick={toggleChoiceHandler}>
+        <div
+          className={`switcher-body-central ${
+            choiceHandlerDisabled ? "not-allowed" : ""
+          }`}
+          onClick={toggleChoiceHandler}
+        >
           <img
             src={SwitcherArrows}
             alt="switcher arrows"
