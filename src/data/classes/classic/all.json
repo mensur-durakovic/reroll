@@ -3,15 +3,17 @@
         {
             "name": "Druid",
             "isActive": false,
+            "switcherType": 2,
             "characteristics": [
                 "Can fit all roles in the game",
-                "Shapeshifts into other creatures",
+                "Shape shifts into other creatures",
                 "Most versatile class in the game"
             ]
         },
         {
             "name": "Hunter",
             "isActive": false,
+            "switcherType": 2,
             "characteristics": [
                 "Good for beginners",
                 "Good for soloing",
@@ -23,6 +25,7 @@
         {
             "name": "Mage",
             "isActive": false,
+            "switcherType": 2,
             "characteristics": [
                 "Can avoid mechanics with Ice Block",
                 "Fairly mobile",
@@ -35,6 +38,7 @@
         {
             "name": "Paladin",
             "isActive": false,
+            "switcherType": 2,
             "characteristics": [
                 "Flashy spells and visuals",
                 "Good for beginners",
@@ -44,19 +48,21 @@
         },
         {
             "name": "Priest",
+            "switcherType": 2,
             "isActive": false,
             "characteristics": [
                 "Nice visuals",
                 "Has abilities to support others, e.g. shields and heals",
                 "Good looking tiers",
                 "Can take control of other players",
-                "Plenty of selfhealing",
+                "Plenty of self healing",
                 "Plenty of \"Damage over Time\" abilities"
             ]
         },
         {
             "name": "Rogue",
             "isActive": false,
+            "switcherType": 2,
             "characteristics": [
                 "Plenty of skills to avoid combat mechanics",
                 "Good mobility",
@@ -68,19 +74,21 @@
         {
             "name": "Shaman",
             "isActive": false,
+            "switcherType": 2,
             "characteristics": [
                 "Flashy spells and visuals",
-                "Plenty of selfhealing",
+                "Plenty of self healing",
                 "Has totems to buff others",
                 "Can resurrect in combat"
             ]
         },
         {
-            "name": "Warlock",
+            "name": "Warlock2",
             "isActive": false,
+            "switcherType": 2,
             "characteristics": [
                 "Good for soloing",
-                "Plenty of selfhealing",
+                "Plenty of self healing",
                 "Can summon other players",
                 "Flashy spells and visuals",
                 "Can resurrect others in combat"

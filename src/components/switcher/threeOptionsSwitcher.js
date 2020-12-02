@@ -193,7 +193,7 @@ const ThreeOptionsSwitcher = React.memo((props) => {
           </div>
         </div>
         <div className="final-switcher-body-fixed">
-          <div className="final-switcher-body-fixed-vertical"></div>
+          <div className="final-switcher-body-fixed-vertical">&nbsp;</div>
         </div>
       </div>
       <div className="final-switcher-footer">

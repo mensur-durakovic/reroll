@@ -3,8 +3,8 @@ import FirstPage from "./pages/firstPage/firstPage";
 import SecondPage from "./pages/secondPage/secondPage";
 import ThirdPage from "./pages/thirdPage/thirdPage";
 import { gameModeClassic } from "./constants/gameModes";
-import {fetchNavigationClasses} from "./api/navigationClasses";
-import {fetchClassesData} from "./api/classes";
+import { fetchNavigationClasses } from "./api/navigationClasses";
+import { fetchClassesData } from "./api/classes";
 
 function App() {
   const [page, setPage] = useState(1);
