@@ -48,7 +48,7 @@ const Navigation = React.memo((props) => {
             className="navigation-logo-container"
             onClick={() => handleAnimationDirection(item.name)}
           >
-            <a href="#">{item.name}</a>
+            <span>{item.name}</span>
             <div className="navigation-logo-wrapper">
               <div
                 className={`navigation-logo ${
