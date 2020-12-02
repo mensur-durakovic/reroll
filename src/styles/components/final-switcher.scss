@@ -68,12 +68,14 @@
 
           &-vertical {
             width: 1px;
+            min-width: 1px;
             max-width: 1px;
             height: 40px;
             max-height: 40px;
 
             &-active {
               width: 1px;
+              min-width: 1px;
               max-width: 1px;
               height: 90px;
               max-height: 90px;
@@ -88,6 +90,7 @@
 
           &-horizontal {
             height: 1px;
+            min-height: 1px;
             max-height: 1px;
             width: 70px;
             max-width: 70px;
@@ -99,6 +102,7 @@
 
             &-active {
               height: 1px;
+              min-height: 1px;
               max-height: 1px;
               width: 25px;
               max-width: 25px;
@@ -171,6 +175,7 @@
 
           &-horizontal {
             height: 1px;
+            min-height: 1px;
             max-height: 1px;
             width: 100%;
             min-width: 100%;
@@ -183,6 +188,7 @@
 
             &-active {
               height: 1px;
+              min-height: 1px;
               max-height: 1px;
               width: 100%;
               min-width: 100%;
@@ -202,9 +208,11 @@
         display: flex;
         align-items: center;
         justify-content: center;
+
         &-vertical {
           width: 1px;
           max-width: 1px;
+          min-width: 1px;
           height: 70px;
           max-height: 70px;
           background-color: $yellow;
@@ -252,7 +260,6 @@
             display: flex;
             align-items: center;
             justify-content: center;
-
             margin: 20px 0;
 
             &-image {
@@ -323,8 +330,8 @@
         justify-content: center;
 
         &-vertical {
-          min-width: 1px;
           width: 1px;
+          min-width: 1px;
           max-width: 1px;
           height: 70px;
           background-color: $yellow;
@@ -337,6 +344,7 @@
 
         &-horizontal {
           height: 1px;
+          min-height: 1px;
           max-height: 1px;
           /* width: 75px;
           max-width: 75px; */
@@ -375,6 +383,7 @@
 
         &-horizontal {
           height: 1px;
+          min-height: 1px;
           max-height: 1px;
           width: 50%;
           /* width: 130px;
@@ -397,6 +406,7 @@
 
       &-vertical {
         width: 1px;
+        min-width: 1px;
         max-width: 1px;
         height: 70px;
         background-color: $yellow;
