@@ -93,6 +93,18 @@
                 "Flashy spells and visuals",
                 "Can resurrect others in combat"
             ]
+        },
+        {
+            "name": "Solo",
+            "isActive": false,
+            "switcherType": 1,
+            "characteristics": [
+                "Good for soloing",
+                "Plenty of self healing",
+                "Can summon other players",
+                "Flashy spells and visuals",
+                "Can resurrect others in combat"
+            ]
         }
     ]
 }
