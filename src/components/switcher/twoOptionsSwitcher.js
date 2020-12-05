@@ -1,5 +1,4 @@
 import React from "react";
-import SwitcherArrows from "../../assets/images/arrows.svg";
 
 const TwoOptionsSwitcher = React.memo((props) => {
   const {
@@ -144,11 +143,7 @@ const TwoOptionsSwitcher = React.memo((props) => {
           }`}
           onClick={toggleChoiceHandler}
         >
-          <img
-            src={SwitcherArrows}
-            alt="switcher arrows"
-            className="switcher-body-central-arrows"
-          ></img>
+          <div className="switcher-body-central-arrows"></div>
         </div>
         <div className="switcher-body-right">
           <div
