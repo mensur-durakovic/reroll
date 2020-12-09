@@ -1,6 +1,4 @@
 .final-switcher {
-  /* width: 750px;
-  max-width: 750px; */
   width: 90vw;
   @media (min-width: 1025px) {
     width: 27vw;
@@ -59,11 +57,6 @@
           flex-direction: row;
           align-items: flex-end;
           justify-content: flex-end;
-          /* 
-          @media (min-width: 768px) {
-            width: 215px;
-            max-width: 215px;
-          } */
 
           &-vertical {
             width: 1px;
@@ -293,13 +286,6 @@
         margin-top: 35px;
         background-color: $yellow;
         margin: 0 auto;
-        /* margin-left: 40px;
-        margin-right: 40px; */
-
-        /*         @media (min-width: 768px) {
-          margin-left: 125px;
-          margin-right: 180px;
-        } */
       }
     }
   }
@@ -356,9 +342,6 @@
       }
 
       &-right {
-        /* width: 50%;
-        max-width: 50%;
-        min-width: 50%; */
         display: flex;
         flex-direction: row;
         align-items: flex-end;
@@ -376,10 +359,6 @@
           height: 70px;
           background-color: $yellow;
           margin: 0 auto 0 0;
-          /* margin-right: 264px;
-          @media (min-width: 768px) {
-            margin-right: 124px;
-          } */
         }
 
         &-horizontal {
@@ -387,13 +366,7 @@
           min-height: 1px;
           max-height: 1px;
           width: 50%;
-          /* width: 130px;
-          max-width: 130px; */
           background-color: $yellow;
-          /* @media (min-width: 768px) {
-            width: 250px;
-            max-width: 250px;
-          } */
         }
       }
     }
@@ -434,22 +407,14 @@
       }
 
       & > img {
-        -webkit-user-select: none; /* Safari */
-        -moz-user-select: none; /* Firefox */
-        -ms-user-select: none; /* IE10+/Edge */
-        user-select: none; /* Standard */
-        /* min-width: 80px;
-        max-width: 80px;
-        min-height: 80px;
-        max-height: 80px; */
-        width: 8vw;
-        height: 8vw;
+        width: 25vw;
+        height: 25vw;
 
         @media (min-width: 768px) {
-          /*           width: 100%;
-          max-width: 150px;
-          min-height: 150px;
-          max-height: 150px; */
+          width: 18vw;
+          height: 18vw;
+        }
+        @media (min-width: 1025px) {
           width: 8vw;
           height: 8vw;
         }
@@ -471,26 +436,17 @@
     }
 
     &-shadow {
-      /* width: 100px;
-      max-width: 100px;
-      min-width: 100px; */
       width: 100%;
       min-width: 100%;
       height: 30px;
       margin: 10px 0;
 
       @media (min-width: 768px) {
-        /* width: 220px;
-        max-width: 220px;
-        min-width: 220px; */
         width: 100%;
         min-width: 100%;
       }
 
       &-active {
-        /* width: 100px;
-        max-width: 100px;
-        min-width: 100px; */
         min-width: 100%;
         height: 30px;
         margin: 10px 0;
@@ -500,9 +456,6 @@
         background-size: contain;
 
         @media (min-width: 768px) {
-          /* width: 220px;
-          max-width: 220px;
-          min-width: 220px; */
           min-width: 100%;
         }
       }
